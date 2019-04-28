@@ -4,6 +4,6 @@ For information on how to use this repository, see [Python](https://docs.microso
 
 | Example | Build status |
 |---------|--------------|
-| Build (YAML) | [![Build status](https://dev.azure.com/Allan-Nava/pipeline-python-django)](https://dev.azure.com/Allan-Nava/pipeline-python-django/_build/results?buildId=9) |
+| Build (YAML) | [![Build Status](https://dev.azure.com/Allan-Nava/pipeline-python-django/_apis/build/status/Allan-Nava.pipeline-python-django?branchName=master)](https://dev.azure.com/Allan-Nava/pipeline-python-django/_build/latest?definitionId=1&branchName=master) |
 
 # Contributing
